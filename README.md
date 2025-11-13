@@ -1,2 +1,2 @@
 # good_morning
-Sends "Good morning
+Sends "Good morning!" to your mom every day!
